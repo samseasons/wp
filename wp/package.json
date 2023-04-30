@@ -1,0 +1,9 @@
+{
+  "name": "wp",
+  "type": "module",
+  "main": "x.js",
+  "scripts": {
+    "build": "node bundle.js src/s/x.js m/a.js && cp -r src/c/* m/",
+    "start": "node serve.js m 2345"
+  }
+}

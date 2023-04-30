@@ -1,0 +1,12 @@
+html {
+  background-color: #000;
+  color: #FFF;
+  display: block;
+  font-family: sans-serif;
+  height: 100%;
+}
+
+.main {
+  height: 100%;
+  width: 100%;
+}
